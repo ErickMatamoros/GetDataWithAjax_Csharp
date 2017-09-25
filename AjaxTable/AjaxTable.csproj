@@ -89,6 +89,7 @@
     <Content Include="js\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="js\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="js\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="DB\DataBase.zip" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
