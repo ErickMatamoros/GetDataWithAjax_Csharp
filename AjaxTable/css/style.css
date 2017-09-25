@@ -1,0 +1,14 @@
+﻿body {
+}
+
+div button:nth-child(2){
+    margin-top: 15px;
+}
+
+.content{
+    margin: 40px;
+}
+
+td, th{
+    text-align: center;
+}
